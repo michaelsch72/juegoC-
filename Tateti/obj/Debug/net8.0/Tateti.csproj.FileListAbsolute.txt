@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Tateti\Tateti\bin\Debug\net8.0\Tateti.exe
+C:\Users\micha\source\repos\Tateti\Tateti\bin\Debug\net8.0\Tateti.deps.json
+C:\Users\micha\source\repos\Tateti\Tateti\bin\Debug\net8.0\Tateti.runtimeconfig.json
+C:\Users\micha\source\repos\Tateti\Tateti\bin\Debug\net8.0\Tateti.dll
+C:\Users\micha\source\repos\Tateti\Tateti\bin\Debug\net8.0\Tateti.pdb
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.AssemblyInfo.cs
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.dll
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\refint\Tateti.dll
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.pdb
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\Tateti.genruntimeconfig.cache
+C:\Users\micha\source\repos\Tateti\Tateti\obj\Debug\net8.0\ref\Tateti.dll
